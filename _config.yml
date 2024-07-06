@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jiang Yangyang"
-  pronouns         : "his"  
+  # pronouns         : "his"  
   bio              : "A student seeking a PhD."
   location         : "Earth"
   employer         : "Shanghai University"

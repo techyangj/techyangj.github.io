@@ -14,11 +14,10 @@ Research Interests
 ======
 My research focuses on federated learning, IoT security, and blockchain technologies. 
 
-- Federated Learning: Addressing data and system heterogeneity, with a strong emphasis on data protection.
-- IoT Security: Enhancing security measures for interconnected devices in IoT environments.
+- Trusted Machine Learning: Dedicated to the research of poisoning defense and verifiable research.
 - Blockchain Technologies: Developing and optimizing blockchain protocols for secure and efficient transactions.
 
-As you can seen, those topics are all about security.
+As you can seen, those topics are all about computer security.
 
 I am currently seeking a Ph.D. position whose research aligns with these interests. If you are looking for a dedicated and passionate student to join your research group, please consider my application.
 

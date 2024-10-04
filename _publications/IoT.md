@@ -19,3 +19,4 @@ The main contributions of this paper are as follows:
 (3)	We propose a cross-domain identity tracking protocol based on threshold variable secret sharing. This method uses binding value calculations and share generation to identify and track malicious devices while preventing colluders from manipulating secret shares to obtain the identities of legitimate devices through a dynamic threshold adjustment mechanism.
 
 (4)	A comprehensive security analysis of the proposed scheme demonstrates its security and reliability, showing its ability to resist various types of attacks. Finally, performance evaluations indicate that the scheme outperforms other state-of-the-art schemes.
+![Image text](https://github.com/techyangj/techyangj.github.io/blob/master/images/LBC.png)

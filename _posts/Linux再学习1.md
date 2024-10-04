@@ -3,6 +3,7 @@ title: Linux再学习1
 date: 2021-08-12 21:21:48
 urlname: Linux-Studay-more-1
 tags:
+collection: posts
 ---
 ## ISCSI
 Internet SCSI 网络SCSI接口

@@ -2,19 +2,9 @@
 title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching
 venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+date: 2022-03-01
+location: "Shanghai, Chian"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Served as a research assistant for the Cultural Relics Protection Cloud Platform

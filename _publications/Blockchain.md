@@ -1,7 +1,7 @@
 ---
 title: "A cluster reputation-based hierarchical consensus model in blockchain"
 collection: publications
-# permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publications/Blockchain
 excerpt: 'This paper is about the blockchain consensus security.'
 date: 2023-08-29
 venue: 'Peer-to-Peer Networking and Applications'

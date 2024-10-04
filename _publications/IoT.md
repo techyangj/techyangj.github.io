@@ -10,8 +10,6 @@ date: 2024-XX-XX
 #citation: 'Jiang, Y., Guan, Y. A cluster reputation-based hierarchical consensus model in blockchain. Peer-to-Peer Netw. Appl. 16, 2591–2606 (2023). https://doi.org/10.1007/s12083-023-01550-5'
 ---
 
-
-
 The main contributions of this paper are as follows:
 
 (1)	We propose a lightweight blockchain-assisted cross-domain zero-knowledge authentication scheme for the Industrial Internet of Things (IIoT). The scheme can achieve flexible, lightweight access and audit trails across different domains for IoT devices with limited computing capabilities.

@@ -3,7 +3,7 @@ title: "LBCZA: Lightweight blockchain-assisted cross-domain zero-knowledge authe
 collection: publications
 permalink: /publications/IoT
 excerpt: 'This paper is about the IoT security.'
-date: 2024-00-00
+date: 2024-01-01
 #venue: 'Peer-to-Peer Networking and Applications'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'https://link.springer.com/article/10.1007/s12083-023-01550-5'

@@ -20,3 +20,4 @@ The main contributions of this paper are as follows:
 
 (4)	A comprehensive security analysis of the proposed scheme demonstrates its security and reliability, showing its ability to resist various types of attacks. Finally, performance evaluations indicate that the scheme outperforms other state-of-the-art schemes.
 ![IoT Security Diagram](../images/abstract.jpg)
+![IoT Security Diagram1]([../images/abstract.jpg](https://github.com/techyangj/techyangj.github.io/blob/master/images/abstract.jpg))

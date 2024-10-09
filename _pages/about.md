@@ -12,10 +12,10 @@ I am Yangyang Jiang(蒋洋洋). I am a Master's student in Communication and Inf
 
 Research Interests
 ======
-My research focuses on federated learning, IoT security, and blockchain technologies. 
+My research focuses on federated learning, IoT security, and blockchain security. 
 
 - Trusted Machine Learning: Dedicated to the research of poisoning defense and verifiable research.
-- Blockchain Technologies: Developing and optimizing blockchain protocols for secure and efficient transactions.
+- Blockchain security: Smart contract auditing is an important step to ensure the security of contract code. Auditing includes static code analysis, dynamic analysis, symbolic execution and other technologies, aiming to discover potential vulnerabilities in the contract.
 
 As you can seen, those topics are all about computer security.
 
